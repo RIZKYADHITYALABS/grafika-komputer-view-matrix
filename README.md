@@ -61,6 +61,5 @@ $$
 
 ```tree
 .
-├── main.py           # Kode utama perhitungan & visualisasi
+├── matrix.py           # Kode utama perhitungan & visualisasi
 ├── README.md         # Dokumentasi proyek
-└── assets/           # (Opsional) Folder untuk menyimpan gambar hasil
