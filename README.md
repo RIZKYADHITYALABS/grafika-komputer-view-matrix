@@ -7,18 +7,6 @@
 
 > **Tugas Grafika Komputer 3D**: Implementasi perhitungan matriks transformasi dari koordinat dunia (*World Space*) menuju koordinat kamera (*View Space*).
 
----
-
-## 📋 Daftar Isi
-- [Tentang Proyek](#-tentang-proyek)
-- [Landasan Teori](#-landasan-teori-matematika)
-- [Fitur](#-fitur)
-- [Struktur Direktori](#-struktur-direktori)
-- [Instalasi (Arch Linux)](#-instalasi-arch-linux)
-- [Cara Penggunaan](#-cara-penggunaan)
-- [Preview Output](#-preview-output)
-
----
 
 ## 🧐 Tentang Proyek
 Repository ini berisi *script* Python untuk menghitung posisi titik objek relatif terhadap kamera. Proyek ini mendemonstrasikan bagaimana **Aljabar Linear** digunakan dalam pipeline grafika komputer untuk mengubah sudut pandang.
